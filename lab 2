@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <style>
+    table {
+      border-collapse: collapse;
+      width: 100%;
+    }
+
+    th, td {
+      border: 1px solid #dddddd;
+      text-align: center;
+      padding: 8px;
+    }
+
+    caption {
+      font-weight: bold;
+      margin-bottom: 10px;
+    }
+  </style>
+</head>
+<body>
+  <table>
+    <caption>Розклад занять для групи KI-406 (понеділок)</caption>
+    <tr>
+      <th>Пара</th>
+      <th>Предмет</th>
+      <th>Аудиторія</th>
+    </tr>
+    <tr>
+      <td>1</td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>2</td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>3</td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>4</td>
+      <td>Організація БД</td>
+      <td>220</td>
+    </tr>
+    <tr>
+      <td>5</td>
+      <td>БЖД</td>
+      <td>205в</td>
+    </tr>
+    <tr>
+      <td>6</td>
+      <td>Програмне забезпечення</td>
+      <td>103</td>
+    </tr>
+    <tr>
+      <td>7</td>
+      <td></td>
+      <td></td>
+    </tr>
+  </table>
+</body>
+</html>
